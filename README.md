@@ -1,2 +1,2 @@
 # javak
-incremental wrapper around javac meant for replit
+very small java build tool as a wrapper around javac
